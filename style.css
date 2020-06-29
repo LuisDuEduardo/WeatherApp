@@ -10,9 +10,9 @@ body {
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  background: lightblue;
+  background: #0f0f0f;
   font-family: sans-serif;
-  color: #252525;
+  color: #ffffff;
 }
 
 .location {
